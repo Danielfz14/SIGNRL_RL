@@ -1,4 +1,4 @@
-# SIGNRL: A Population-based Reinforcement Learning method for Continuous Contro.
+# SIGNRL: A Population-based Reinforcement Learning method for Continuous Control.
 
 Data and code from the article entitled:
 
@@ -6,7 +6,7 @@ Data and code from the article entitled:
 
 # Manuscript  – Result & Simulations
 
-SIGNRL: A Population-based Reinforcement Learning method for Continuous Contro.
+SIGNRL: A Population-based Reinforcement Learning method for Continuous Control.
 
 Authors: _Daniel F. Zambrano-Gutierrez, Alberto Carlos Molina-Porras, Jorge M. Cruz-Duarte, Ivan Amaya, Jose C. Ortiz-Bayliss, Juan Gabriel Avina-Cervantes, Emmanuel Ovalle-Magallanes_
 
